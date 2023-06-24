@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mask &amp; No Mask</folder>
+	<filename>Data (538).jpg</filename>
+	<path>E:\Ak\oWn\Face Mask detection using SSD-MobileVNet\Dataset\Face Mask Dataset\Mask &amp; No Mask\Data (538).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>596</width>
+		<height>336</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>254</xmin>
+			<ymin>119</ymin>
+			<xmax>356</xmax>
+			<ymax>181</ymax>
+		</bndbox>
+	</object>
+</annotation>
